@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abner Nunes Netto</h1>
-<h3 align="center">💻 I have worked with Soware Quality for over 13 years, 12 years in the banking financial sector, with a degree in Informaon Technology Management and Specializaon in Test Automaon, having 4 Internaonal cerficates from the Internaonal Soware Tesng Qualificaons Board</h3>
+<h3 align="center">💻 I have worked with Soware Quality for over 14 years, 13 years in the banking financial sector, with a degree in Informaon Technology Management and Specializaon in Test Automaon, having 5 International cerficates from the Internaonal Soware Tesng Qualificaons Board</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abnernnetto&label=Profile%20views&color=0e75b6&style=flat" alt="abnernnetto" /> </p>
 
